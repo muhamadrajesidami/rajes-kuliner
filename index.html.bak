@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>RM. Khas Minangkabau</title>
+        <link rel="stylesheet" href="css/styles.css">
+    </head>
+    <body>
+        <div class="div-utama">
+            <header>
+                <h1>RM. Minangkabau</h1>
+                <p>Racikan Masakan khas MInangkabau</p>
+            </header>
+            <nav class="navigasi">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Menu</a></li>
+                    <li><a href="#">Order</a></li>
+                    <li><a href="#">About</a></li>
+                </ul>
+            </nav>
+            <div class="banner">
+                <img src="gambar/dendeng lambok.jpeg">
+            </div>
+            <div class="pemesanan">
+                <h1>Pemesanan</h1>
+                <p>Isi form pemesanan dengan klik tombol pesan di bawah</p>
+                <button><a href="#">Pesan</a></button>
+            </div>
+            <div class="menu-content">
+                <h1>Kuliner Khas Minang</h1>
+                <h6>Diposting pada 08.45 WIB, 14 Oktober 2023</h6>
+                <img src="gambar/dendeng lambok.jpg">
+				<p>dendeng lambok adalah makanan khas Minangkabau, Sumatra Barat yang terbuat dari daging sapi .
+				dendeng lambok ini punya ciri khas kuahnya yang pekat dan pedas. Biasanya dapat ditemukan di rumah makan padang.
+				Selain redang, dendeng lambok yang paling sering dicari setiap makan di rumah makan.
+			    masakan  khas minang ini masuk dalam masakan paling enak se Indonesia.</button>
+				<button><a href="#">Selengkapnya</a></button>
+            </div>
+            <div class="jadwal-buka">
+                <h1>Jadwal Buka</h1>
+                <img src="gambar/soto padang.jpg">
+                <h3>Jadwal Buka</h3>
+                <p>Setiap hari</p>
+                <p>08.00 WIB-22.00 WIB</p>
+            </div>
+            <div class="berita-terbaru">
+                <h1>Berita terbaru</h1>
+				 <ul>
+                    <li><a href="#">Khasiat Ikan Gabus</a></li>
+                    <li><a href="#">RM. Minangkabau Buka Cabang di luar negri </a></li>
+                    <li><a href="#">Sejarah Pembuatan Rendang</a></li>
+                    <li><a href="#">Minuman Pelepas Haus</a></li>
+                    <li><a href="#">Ayam Geprek Maimbau</a></li>
+                </ul>
+            </div>
+            <footer>
+                Copyright © 2023 | By Rajes_idamiii
+            </footer>
+        </div>
+    </body>
+</html>
